@@ -24,5 +24,10 @@
 
 - 자세한 설명은 동영상을 참고 바랍니다. (추후 수정 후, 재업로드 예정)
 
+## 설명 영상
+[![Video Label](http://img.youtube.com/vi/EjKVDwwPh-0/0.jpg)](https://youtu.be/EjKVDwwPh-0)
+
+https://youtu.be/EjKVDwwPh-0
+
 ## 참고 자료
 - Thomas E. Copeland, J. Fred Weston, & Kuldeep Shastri, 「Financial theory and corporate policy」, Addison-Wesley, 2007, P101~145
