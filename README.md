@@ -22,7 +22,40 @@
 ## Example
 ![20220831_220047](https://user-images.githubusercontent.com/101968683/187684355-fb217922-18ad-4a87-b9d3-9e10578a5f16.png)
 
-- 자세한 설명은 동영상을 참고 바랍니다. (추후 수정 후, 재업로드 예정)
+- 자세한 설명은 설명 영상을 참고 바랍니다. (추후 수정 후, 재업로드 예정)
+
+## 사용법
+**로그인 및 비밀번호 저장**
+
+<img src = "https://user-images.githubusercontent.com/101968683/187889376-16193c14-7511-4aef-9341-63bce4ccddb7.gif" width="75%" height="75%">
+
+- 자동 매수를 이용하지 않는다면 로그인은 필수가 아닙니다.
+
+- 비밀번호 저장은 필수가 아닙니다.
+
+
+
+**종목코드 재입력**
+
+<img src = "https://user-images.githubusercontent.com/101968683/187890406-4835c860-a87c-4251-9854-f0f226b8cfb4.gif" width="75%" height="75%">
+
+- 리셋 버튼를 누를 시, 투자금은 초기화되지 않습니다.
+
+**분석**
+
+<img src = "https://user-images.githubusercontent.com/101968683/187891382-b1bc7a99-e634-4c04-ae41-f3d889d1f93d.gif" width="75%" height="75%">
+
+- 데이터 수집은 5배속 재생으로 해당 gif보다 느립니다.
+
+**자동 매수**
+
+
+<img src = "https://user-images.githubusercontent.com/101968683/187891582-70e2d369-6c14-4d60-84a0-d0ae5cdcb48d.gif" width="75%" height="75%">
+
+- 증시 거래시간에 자동 매수 버튼을 누르면 자동으로 주문이 접수됩니다.
+- 영웅문을 통해 확인 가능합니다. (설명 영상 참고)
+
+
 
 ## 설명 영상
 [![Video Label](http://img.youtube.com/vi/EjKVDwwPh-0/0.jpg)](https://youtu.be/EjKVDwwPh-0)
